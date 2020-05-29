@@ -6,7 +6,7 @@ client = discord.Client()
 
 distoken = NzE1OTc2ODE1MTAwOTUyNjA3.XtFHiw.LrbvyhEAmW7zeUCAf3k3FirJ_Hw
 
-# These must all be Voice Channels
+# These must all be Voice Channel
 timechannel = # The ID of the Channel that gets renamed
 
 @client.event
